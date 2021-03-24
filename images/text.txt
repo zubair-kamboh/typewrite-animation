@@ -1,0 +1,4 @@
+bd-color: #0c1943
+com-color: #0e2a47
+des-know-peers: #666666
+btn-color: #142f70
